@@ -5,6 +5,7 @@ public class Calculator {
         int size = 10;
         size = 100;
         size = size - 5;
+        boolean result;
         System.out.println(result);
     }
 }
