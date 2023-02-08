@@ -6,6 +6,5 @@ public class Calculator {
         size = 100;
         size = size - 5;
         System.out.println(result);
-        result = size;
     }
 }
