@@ -17,5 +17,6 @@ public class MathFunc {
         MathFunc.func1(3);
         MathFunc.func2(5);
         MathFunc.func1(100);
+        int result3 = MathFunc.func1(100);
     }
 }
